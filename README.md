@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Mohammad%20Ali&fontSize=55&fontAlignY=35&desc=Android%20Developer&descAlignY=55&descSize=14&animation=fadeIn&fontColor=ffffff&descColor=ffffff&fontAlignX=50&fontWeight=300&fontFamily=Georgia" width="100%">
 </div>
 
-<h1 align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<!-- Updated Top Text with matching style -->
+<h1 align="center" style="font-family: 'Georgia', serif; font-style: italic; font-size: 20px;">
   Building meaningful Android applications with clean architecture
 </h1>
 
@@ -15,9 +16,9 @@
 <!-- About Me Section -->
 <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">About Me</h2>
 
-- 👨‍💻 I build Android apps with **Kotlin** & **Jetpack Compose** using Clean Architecture and MVVM
-- 📱 Currently working on **Kaizen**, a self-improvement & habit tracking app
-- 🌱 Constantly exploring new tools like **Flutter** and **Ktor** to expand my horizons
+- 👨‍💻 I build Android apps with **Kotlin** & **Jetpack Compose** using Clean Architecture and MVVM  
+- 📱 Currently working on **Kaizen**, a self-improvement & habit tracking app  
+- 🌱 Constantly exploring new tools like **Flutter** and **Ktor** to expand my horizons  
 - 🎯 Inspired by craftsmanship and the pursuit of continuous improvement
 
 <!-- Tech Stack -->
@@ -108,13 +109,3 @@ object DevelopmentPrinciples {
         }
     }
 }
-```
-
-<p align="center" style="font-family: 'Georgia', serif; font-style: italic; font-size: 16px;">
-  "Continuous improvement is better than delayed perfection." – Mark Twain
-</p>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer" width="100%">
-</div>
