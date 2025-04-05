@@ -1,40 +1,131 @@
-<!-- Top Blue Banner -->
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=250&section=header&text=Mohammad%20Ali&fontSize=90&fontAlignY=35&desc=Android%20Developer%20%7C%20Clean%20Architecture%20Enthusiast&descAlignY=55&descSize=22&animation=fadeIn" width="100%">
+</div>
+
+<!-- Typing Effect -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0066FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Crafting+Elegant+Android+Solutions;With+Clean+Architecture+%26+Jetpack+Compose" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- Profile Info -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohammad-ali-ustad-700516228/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/mohammadali">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:mohammadali@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+<!-- About Me Section -->
+<h2 align="center">About Me</h2>
+
 <p align="center">
-  <img src="https://via.placeholder.com/1200x100/0077FF/FFFFFF?text=+"> <!-- You can replace this link with your blue banner image -->
+  I'm a passionate Android developer dedicated to creating meaningful applications with exceptional user experiences. 
+  Inspired by Japanese principles of craftsmanship and <i>kaizen</i> (continuous improvement), 
+  I approach every project with meticulous attention to detail.
 </p>
 
-<h1 align="center">Hi, I'm Muhammad 👋</h1>
+<!-- Skills Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" style="filter: hue-rotate(220deg)">
+  <h2>Skills & Technologies</h2>
+  <img src="https://skillicons.dev/icons?i=kotlin,android,dart,flutter,firebase,github,gradle,sqlite&theme=light&perline=4" alt="Skills" />
+</div>
 
-<p align="center">
-Aspiring Android Developer | Passionate about building beautiful, performant mobile experiences.
-</p>
+<!-- Projects Section -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" style="filter: hue-rotate(220deg)">
+  <h2>Featured Projects</h2>
+</div>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0077FF&height=80&section=header"/>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
+  <!-- Project Cards -->
+  <div style="width: 300px; padding: 15px; border-radius: 10px; background-color: #f8f9fa; margin: 10px;">
+    <h3>🌱 Kaizen</h3>
+    <p>Self-improvement & habit tracking app with clean architecture</p>
+    <p>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Compose-3DDC84?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+    </p>
+  </div>
 
-## 📱 Projects
+  <div style="width: 300px; padding: 15px; border-radius: 10px; background-color: #f8f9fa; margin: 10px;">
+    <h3>🍳 Ryori</h3>
+    <p>Recipe discovery app with personalized recommendations</p>
+    <p>
+      <img src="https://img.shields.io/badge/MVVM-0066FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square"/>
+    </p>
+  </div>
 
-Here are some of the projects I've worked on:
+  <div style="width: 300px; padding: 15px; border-radius: 10px; background-color: #f8f9fa; margin: 10px;">
+    <h3>☔ Tenki</h3>
+    <p>Minimalist weather app with beautiful UI</p>
+    <p>
+      <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Coroutines-0095D5?style=flat-square"/>
+    </p>
+  </div>
 
-- **Kaizen** — A minimalist Habit Tracker built with Kotlin, Jetpack Compose, and Firestore.
-- **NoteNest** — A cloud-synced Note-Taking app with offline support.
-- **Weatherly** — A clean weather app leveraging OpenWeather API, Compose UI, and modern Android architecture.
-- **TaskZen** — A sleek To-Do app focusing on productivity and simplicity.
-- **ExpenseEase** — An intuitive expense tracker app with beautiful analytics.
-- **Portfolio Website** — A personal developer portfolio made with responsive web design.
+  <div style="width: 300px; padding: 15px; border-radius: 10px; background-color: #f8f9fa; margin: 10px;">
+    <h3>📝 Shuki</h3>
+    <p>Offline-first notes app with markdown support</p>
+    <p>
+      <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Flow-0095D5?style=flat-square"/>
+    </p>
+  </div>
 
----
+  <div style="width: 300px; padding: 15px; border-radius: 10px; background-color: #f8f9fa; margin: 10px;">
+    <h3>🎯 Mokuhyo</h3>
+    <p>Goal tracking app with progress visualization</p>
+    <p>
+      <img src="https://img.shields.io/badge/Compose-3DDC84?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Hilt-0066FF?style=flat-square"/>
+    </p>
+  </div>
 
-## ✉️ Let's Connect
+  <div style="width: 300px; padding: 15px; border-radius: 10px; background-color: #f8f9fa; margin: 10px;">
+    <h3>📚 Dokusho</h3>
+    <p>Reading list manager with book recommendations</p>
+    <p>
+      <img src="https://img.shields.io/badge/Clean--Arch-0066FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square"/>
+    </p>
+  </div>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<!-- Development Philosophy -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" style="filter: hue-rotate(220deg)">
+  <h2>Development Philosophy</h2>
+</div>
 
-<!-- Bottom Blue Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x100/0077FF/FFFFFF?text=+">
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">✨ Clean Architecture</td>
+      <td align="center">🔄 MVVM Pattern</td>
+      <td align="center">🎨 Material Design</td>
+    </tr>
+    <tr>
+      <td align="center">🧪 Test-Driven Development</td>
+      <td align="center">📚 Continuous Learning</td>
+      <td align="center">🛠 Best Practices</td>
+    </tr>
+  </table>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontAlignY=65" width="100%">
+</div>
