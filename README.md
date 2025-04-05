@@ -47,7 +47,7 @@
 
 <hr style="border: 1px solid #ddd; margin: 40px 0;" />
 
-## Live Coding Animation
+## Tenor
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&color=00BFFF&width=700&lines=Hello+World!;Coding+is+Art;I+build+with+passion;Let's+code+the+future" alt="Typing Animation" />
