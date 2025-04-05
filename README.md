@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Mohammad%20Ali&fontSize=80&fontAlignY=35&desc=Android%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%">
 </div>
 
-<h3 align="center">
-  Building meaningful Android applications with clean architecture and thoughtful design
-</h3>
+<h1 align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+  Building meaningful Android applications with clean architecture
+</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammad-ali-ustad-700516228/">
@@ -16,85 +16,82 @@
 <br/>
 
 <!-- About Me Section -->
-## About Me
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">About Me</h2>
 
-- 👨‍💻 Working with **Kotlin** & **Jetpack Compose** to create Android applications
-- 🏗️ Advocate for Clean Architecture and MVVM design patterns
-- 📱 Currently developing **Kaizen**, a self-improvement & habit tracking app
-- 🌱 Exploring **Flutter** and **Ktor** to broaden technical horizons
-- 🎯 Inspired by Japanese craftsmanship principles and continuous improvement
+- 👨‍💻 I build Android apps with **Kotlin** & **Jetpack Compose** using Clean Architecture and MVVM
+- 📱 Currently working on **Kaizen**, a self-improvement & habit tracking app
+- 🌱 Constantly exploring new tools like **Flutter** and **Ktor** to expand my horizons
+- 🇯🇵 Inspired by Japanese craftsmanship and the pursuit of continuous improvement
+
+<br/>
 
 <!-- Tech Stack -->
-## Technology Stack
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Tech Stack</h2>
 
-<details>
-<summary>Languages & Frameworks</summary>
-<br/>
+<h3 style="font-family: 'Segoe UI', sans-serif;">Languages & Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
 </p>
-</details>
 
-<details>
-<summary>Tools & Technologies</summary>
-<br/>
+<h3 style="font-family: 'Segoe UI', sans-serif;">Tools & Technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Moshi-00BFFF?style=for-the-badge&logoColor=white" alt="Moshi" />
   <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Moshi-00BFFF?style=for-the-badge&logoColor=white" alt="Moshi" />
 </p>
-</details>
+
+<br/>
 
 <!-- Featured Projects -->
-## Featured Projects
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Featured Projects</h2>
 
-<div align="center">
+<div align="center" style="font-family: 'Helvetica Neue', Arial, sans-serif;">
   <table>
     <tr>
-      <td><strong>Project</strong></td>
-      <td><strong>Description</strong></td>
-      <td><strong>Technologies</strong></td>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Tech</th>
     </tr>
     <tr>
-      <td>🌱 Kaizen</td>
-      <td>Self-improvement & habit tracker focused on daily progress</td>
-      <td>
-        <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Ktor-E6007A?style=flat-square&logo=kotlin&logoColor=white"/>
-      </td>
+      <td><b>Kaizen</b></td>
+      <td>A self-improvement & habit tracker app for daily progress</td>
+      <td>Firestore, Jetpack Compose, Ktor, MVVM</td>
     </tr>
     <tr>
-      <td>🍳 Ryori</td>
-      <td>Modern recipe discovery app with clean interface</td>
-      <td>
-        <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Hilt-2196F3?style=flat-square"/>
-      </td>
+      <td><b>Ryori</b></td>
+      <td>A modern recipe discovery app with a clean, user-friendly interface</td>
+      <td>Retrofit, Moshi, DataStore, Dagger Hilt, Material 3</td>
     </tr>
     <tr>
-      <td>☔ Tenki</td>
-      <td>Minimalist weather app with real-time updates</td>
-      <td>
-        <img src="https://img.shields.io/badge/Material3-757575?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Moshi-00BFFF?style=flat-square"/>
-      </td>
+      <td><b>Tenki</b></td>
+      <td>A minimalist weather app providing real-time updates</td>
+      <td>Retrofit, Moshi, Material 3</td>
     </tr>
     <tr>
-      <td>📝 Shuki</td>
-      <td>Efficient offline notes app for quick note-taking</td>
-      <td>
-        <img src="https://img.shields.io/badge/Room-6DB33F?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Flow-7F52FF?style=flat-square"/>
-      </td>
+      <td><b>Shuki</b></td>
+      <td>A simple offline notes app for quick and efficient note-taking</td>
+      <td>Room, Material 3</td>
+    </tr>
+    <tr>
+      <td><b>Keisan</b></td>
+      <td>A fast and intuitive calculator app built for everyday use</td>
+      <td>Jetpack Compose, Material 3</td>
+    </tr>
+    <tr>
+      <td><b>DSA Repository</b></td>
+      <td>A collection of Data Structures & Algorithms problems solved in Kotlin</td>
+      <td>Kotlin, Algorithms, Clean Code</td>
     </tr>
   </table>
 </div>
 
+<br/>
+
 <!-- Development Philosophy -->
-## Development Philosophy
+<h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Development Philosophy</h2>
 
 ```kotlin
 object DevelopmentPrinciples {
@@ -116,19 +113,19 @@ object DevelopmentPrinciples {
 }
 ```
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=435&lines=Building+thoughtful+solutions;Writing+clean+code;Learning+continuously" alt="Typing SVG" />
-</div>
+<br/>
 
 <!-- Contribution Snake -->
 <div align="center">
-  <h2>Contributions</h2>
+  <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Contributions</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center">
-  <p><i>"Continuous improvement is better than delayed perfection." – Mark Twain</i></p>
-</div>
+<br/>
+
+<p align="center" style="font-family: 'Georgia', serif; font-style: italic; font-size: 16px;">
+  "Continuous improvement is better than delayed perfection." – Mark Twain
+</p>
 
 <!-- Footer -->
 <div align="center">
