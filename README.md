@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Mohammad%20Ali&fontSize=80&fontAlignY=35&desc=Android%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Mohammad%20Ali&fontSize=80&fontAlignY=35&desc=Android%20Developer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff&descColor=ffffff" width="100%">
 </div>
 
 <h1 align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/mohammad-ali-ustad-700516228/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MohammadAliUstad&style=flat-square&color=0066FF" alt="Profile Views" />
 </div>
 
 <br/>
@@ -81,7 +80,7 @@
       <td>Jetpack Compose, Material 3</td>
     </tr>
     <tr>
-      <td><b>DSA Repository</b></td>
+      <td><b>DSA</b></td>
       <td>A collection of Data Structures & Algorithms problems solved in Kotlin</td>
       <td>Kotlin, Algorithms, Clean Code</td>
     </tr>
@@ -112,14 +111,6 @@ object DevelopmentPrinciples {
     }
 }
 ```
-
-<br/>
-
-<!-- Contribution Snake -->
-<div align="center">
-  <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Contributions</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
 
 <br/>
 
