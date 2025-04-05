@@ -1,328 +1,40 @@
-<!-- Anime-themed header with RGB elements -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mohammad%20Ali&fontSize=90&fontAlignY=38&desc=Android%20Developer%20%7C%20Code%20Craftsman&descAlignY=60&descSize=22&animation=fadeIn" width="100%">
-</div>
-
-<!-- Animated typing effect with anime quote -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Exceptional+Android+Apps;%22The+code+doesn't+lie%2C+it+reveals+your+intention%22;~+Levi+Ackerman%2C+probably" alt="Typing SVG" /></a>
-</div>
-
-<!-- Animated profile views and social badges -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadali&style=for-the-badge&color=6B46C1" alt="Profile Views" />
-  
-  <a href="https://www.linkedin.com/in/mohammad-ali-ustad-700516228/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/mohammadali">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:mohammadali@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br/>
-
-<!-- RGB divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
-
-<!-- About me section with anime GIF -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> 
-  <b>About Me</b>
-</h2>
-
-<div align="center">
-  <img align="right" height="270px" alt="Anime Coding GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-</div>
-
-<br/>
-
-<p align="left" style="font-size: 18px; margin-left: 20px;">
-  Like a protagonist in a tech anime, I'm on a journey to master the art of Android development. With Kotlin as my weapon of choice and Clean Architecture as my fighting style, I create apps that both function flawlessly and delight users.
-  <br/><br/>
-  Inspired by Japanese principles of <i>kaizen</i> (continuous improvement) and <i>monozukuri</i> (craftsmanship), I approach each project with dedication and attention to detail worthy of a master craftsman.
+<!-- Top Blue Banner -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x100/0077FF/FFFFFF?text=+"> <!-- You can replace this link with your blue banner image -->
 </p>
 
-```kotlin
-object MohammadAli {
-    val powerLevel = "Over 9000"
-    val primarySkills = listOf("Kotlin", "Jetpack Compose", "Clean Architecture", "MVVM")
-    val currentQuest = "Kaizen - Self-improvement & Habit Tracking App"
-    val exploringTechnologies = listOf("Flutter", "Ktor", "KMM")
-    
-    fun code() {
-        while(true) {
-            learn()
-            build()
-            refactor()
-            // This isn't even my final form
-            evolve()
-        }
-    }
-}
-```
+<h1 align="center">Hi, I'm Muhammad 👋</h1>
 
-<br/>
+<p align="center">
+Aspiring Android Developer | Passionate about building beautiful, performant mobile experiences.
+</p>
 
-<!-- RGB divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-</div>
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0077FF&height=80&section=header"/>
+</p>
 
-<!-- Tech skills with anime theme -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3be314.gif" width="35">
-  <b> Skills & Technologies </b>
-</h2>
+## 📱 Projects
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,android,dart,flutter,firebase,github,gradle,sqlite,materialui,figma&theme=dark&perline=5" alt="Skills" />
-</div>
+Here are some of the projects I've worked on:
 
-<br/>
+- **Kaizen** — A minimalist Habit Tracker built with Kotlin, Jetpack Compose, and Firestore.
+- **NoteNest** — A cloud-synced Note-Taking app with offline support.
+- **Weatherly** — A clean weather app leveraging OpenWeather API, Compose UI, and modern Android architecture.
+- **TaskZen** — A sleek To-Do app focusing on productivity and simplicity.
+- **ExpenseEase** — An intuitive expense tracker app with beautiful analytics.
+- **Portfolio Website** — A personal developer portfolio made with responsive web design.
 
-<!-- Power levels -->
-<div align="center">
-  <h3>⚡ Power Levels ⚡</h3>
-  
-  <table border="0">
-    <tr>
-      <td>Kotlin & Android SDK</td>
-      <td>
-        <img src="https://progress-bar.dev/95/?width=350&color=FF5F5F" />
-      </td>
-    </tr>
-    <tr>
-      <td>Jetpack Compose</td>
-      <td>
-        <img src="https://progress-bar.dev/90/?width=350&color=5FAAFF" />
-      </td>
-    </tr>
-    <tr>
-      <td>Clean Architecture</td>
-      <td>
-        <img src="https://progress-bar.dev/92/?width=350&color=5FFF5F" />
-      </td>
-    </tr>
-    <tr>
-      <td>Flutter & Dart</td>
-      <td>
-        <img src="https://progress-bar.dev/75/?width=350&color=BF5FFF" />
-      </td>
-    </tr>
-    <tr>
-      <td>Firebase</td>
-      <td>
-        <img src="https://progress-bar.dev/85/?width=350&color=FFCF5F" />
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
-<br/>
+## ✉️ Let's Connect
 
-<!-- RGB neural network divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<!-- Featured Projects with anime theme -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35">
-  <b>My Epic Projects</b>
-</h2>
-
-<div class="projects" align="center">
-  <!-- Project Cards with Anime-style naming -->
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">カイゼン (Kaizen)</h3>
-        <div align="center">
-          <a href="#">
-            <img src="https://i.pinimg.com/originals/03/41/04/034104234a336e35682bb77db7aba6e7.gif" width="400" alt="Kaizen" style="border-radius: 10px;">
-          </a>
-          <p>
-            A self-improvement & habit tracking app to help you level up in real life, one habit at a time
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">料理 (Ryori)</h3>
-        <div align="center">
-          <a href="#">
-            <img src="https://i.pinimg.com/originals/c0/8b/79/c08b79a7c0ecd7685aaf202d8f94fb18.gif" width="400" alt="Ryori" style="border-radius: 10px;">
-          </a>
-          <p>
-            A recipe discovery app with clean interface that brings delicious recipes right to your fingertips
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Dagger_Hilt-6DB33F?style=for-the-badge&logo=dagger&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">天気 (Tenki)</h3>
-        <div align="center">
-          <a href="#">
-            <img src="https://i.pinimg.com/originals/0e/f3/bb/0ef3bb66d9216fffcea9022628f7bb26.gif" width="400" alt="Tenki" style="border-radius: 10px;">
-          </a>
-          <p>
-            Minimalist weather app providing real-time forecasts with beautiful UI inspired by anime aesthetics
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Moshi-00BFFF?style=for-the-badge&logo=json&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">手記 (Shuki)</h3>
-        <div align="center">
-          <a href="#">
-            <img src="https://i.pinimg.com/originals/48/5e/83/485e83569fff861c92baae936e9d45af.gif" width="400" alt="Shuki" style="border-radius: 10px;">
-          </a>
-          <p>
-            Offline notes app designed for quick and efficient note-taking with a touch of anime-inspired design
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- RGB light divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%">
-</div>
-
-<!-- Stats with anime theme -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30">
-  <b>GitHub Stats</b>
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anuraghazra&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-</div>
-
-<br/>
-
-<!-- Contribution graph as an anime power meter -->
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Mohammad Ali's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anuraghazra&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%">
-  </a>
-</div>
-
-<br/>
-
-<!-- RGB circuitry divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-</div>
-
-<!-- Development philosophy with anime GIF -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122043-2580cca9-1d9b-45d5-bfcc-4ef6368ae428.png" width="30">
-  <b>Developer's Creed</b>
-</h2>
-
-<div align="center">
-  <img align="right" width="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJxZXllOHRjdThoMW9vcDBucnE0YnlmczlmOXVxZXd3ZnprYWc0cCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/QMHoU66sBXqqLqYvGO/giphy.gif">
-  
-  <div align="left" style="margin-left: 30px; width: 60%;">
-    <h3>✨ Clean Architecture</h3>
-    <p>"Like a well-crafted katana, my code is both functional and elegant."</p>
-    
-    <h3>🔄 MVVM Pattern</h3>
-    <p>"A warrior needs clear vision - separation of concerns gives code clarity."</p>
-    
-    <h3>🎨 Material Design</h3>
-    <p>"The user interface should be as intuitive as a master swordsman's technique."</p>
-    
-    <h3>🧪 Test-Driven Development</h3>
-    <p>"Train rigorously in controlled environments before facing real battles."</p>
-    
-    <h3>📚 Continuous Learning</h3>
-    <p>"Even the greatest masters never stop learning new techniques."</p>
-  </div>
-</div>
-
-<br/>
-
-<!-- Contribution snake with RGB effect -->
-<div align="center">
-  <h2>My Contribution Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-<!-- RGB divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910313-9f064bae-cea9-4683-936a-63a5bcbec8cc.gif" width="100%">
-</div>
-
-<!-- Anime quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
-</div>
-
-<br/>
-
-<!-- Contact information with anime theme -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30">
-  <b>Connect With Me</b>
-</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohammad-ali-ustad-700516228/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
-  </a>
-  <a href="https://twitter.com/mohammadali">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" />
-  </a>
-  <a href="mailto:mohammadali@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Anime-themed footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=170&section=footer&text=Plus%20Ultra!&fontSize=40&fontAlignY=70&animation=fadeIn" width="100%">
-</div>
+<!-- Bottom Blue Banner -->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x100/0077FF/FFFFFF?text=+">
+</p>
