@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Mohammad%20Ali&fontSize=80&fontAlignY=35&desc=Android%20Developer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff&descColor=ffffff" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Mohammad%20Ali&fontSize=80&fontAlignY=35&desc=Android%20Developer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff&descColor=ffffff&fontFamily=Roboto" width="100%">
 </div>
 
 <h1 align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
@@ -27,19 +27,25 @@
 <!-- Tech Stack -->
 <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Tech Stack</h2>
 
-<h3 style="font-family: 'Segoe UI', sans-serif;">Languages & Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
-</p>
-
-<h3 style="font-family: 'Segoe UI', sans-serif;">Tools & Technologies</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Retrofit" />
-  <img src="https://img.shields.io/badge/Moshi-00BFFF?style=for-the-badge&logoColor=white" alt="Moshi" />
-  <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design" />
+  <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/Dagger%20Hilt-2196F3?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt" />
+  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=for-the-badge&logo=clean&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/MVVM-FF9900?style=for-the-badge&logo=architecture&logoColor=white" alt="MVVM" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="DataStore" />
 </p>
 
 <br/>
