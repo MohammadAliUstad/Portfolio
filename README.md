@@ -1,131 +1,136 @@
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=250&section=header&text=Mohammad%20Ali&fontSize=90&fontAlignY=35&desc=Android%20Developer%20%7C%20Clean%20Architecture%20Enthusiast&descAlignY=55&descSize=22&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Mohammad%20Ali&fontSize=80&fontAlignY=35&desc=Android%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%">
 </div>
 
-<!-- Typing Effect -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0066FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Crafting+Elegant+Android+Solutions;With+Clean+Architecture+%26+Jetpack+Compose" alt="Typing SVG" />
-  </a>
-</div>
+<h3 align="center">
+  Building meaningful Android applications with clean architecture and thoughtful design
+</h3>
 
-<!-- Profile Info -->
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammad-ali-ustad-700516228/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/mohammadali">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:mohammadali@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MohammadAliUstad&style=flat-square&color=0066FF" alt="Profile Views" />
 </div>
 
 <br/>
 
 <!-- About Me Section -->
-<h2 align="center">About Me</h2>
+## About Me
 
+- 👨‍💻 Working with **Kotlin** & **Jetpack Compose** to create Android applications
+- 🏗️ Advocate for Clean Architecture and MVVM design patterns
+- 📱 Currently developing **Kaizen**, a self-improvement & habit tracking app
+- 🌱 Exploring **Flutter** and **Ktor** to broaden technical horizons
+- 🎯 Inspired by Japanese craftsmanship principles and continuous improvement
+
+<!-- Tech Stack -->
+## Technology Stack
+
+<details>
+<summary>Languages & Frameworks</summary>
+<br/>
 <p align="center">
-  I'm a passionate Android developer dedicated to creating meaningful applications with exceptional user experiences. 
-  Inspired by Japanese principles of craftsmanship and <i>kaizen</i> (continuous improvement), 
-  I approach every project with meticulous attention to detail.
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
+</details>
 
-<!-- Skills Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" style="filter: hue-rotate(220deg)">
-  <h2>Skills & Technologies</h2>
-  <img src="https://skillicons.dev/icons?i=kotlin,android,dart,flutter,firebase,github,gradle,sqlite&theme=light&perline=4" alt="Skills" />
-</div>
+<details>
+<summary>Tools & Technologies</summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Moshi-00BFFF?style=for-the-badge&logoColor=white" alt="Moshi" />
+</p>
+</details>
 
-<!-- Projects Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" style="filter: hue-rotate(220deg)">
-  <h2>Featured Projects</h2>
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
-  <!-- Project Cards -->
-  <div style="width: 300px; padding: 15px; border-radius: 10px; background-color: #f8f9fa; margin: 10px;">
-    <h3>🌱 Kaizen</h3>
-    <p>Self-improvement & habit tracking app with clean architecture</p>
-    <p>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Compose-3DDC84?style=flat-square&logo=jetpackcompose&logoColor=white"/>
-    </p>
-  </div>
-
-  <div style="width: 300px; padding: 15px; border-radius: 10px; background-color: #f8f9fa; margin: 10px;">
-    <h3>🍳 Ryori</h3>
-    <p>Recipe discovery app with personalized recommendations</p>
-    <p>
-      <img src="https://img.shields.io/badge/MVVM-0066FF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square"/>
-    </p>
-  </div>
-
-  <div style="width: 300px; padding: 15px; border-radius: 10px; background-color: #f8f9fa; margin: 10px;">
-    <h3>☔ Tenki</h3>
-    <p>Minimalist weather app with beautiful UI</p>
-    <p>
-      <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Coroutines-0095D5?style=flat-square"/>
-    </p>
-  </div>
-
-  <div style="width: 300px; padding: 15px; border-radius: 10px; background-color: #f8f9fa; margin: 10px;">
-    <h3>📝 Shuki</h3>
-    <p>Offline-first notes app with markdown support</p>
-    <p>
-      <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Flow-0095D5?style=flat-square"/>
-    </p>
-  </div>
-
-  <div style="width: 300px; padding: 15px; border-radius: 10px; background-color: #f8f9fa; margin: 10px;">
-    <h3>🎯 Mokuhyo</h3>
-    <p>Goal tracking app with progress visualization</p>
-    <p>
-      <img src="https://img.shields.io/badge/Compose-3DDC84?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Hilt-0066FF?style=flat-square"/>
-    </p>
-  </div>
-
-  <div style="width: 300px; padding: 15px; border-radius: 10px; background-color: #f8f9fa; margin: 10px;">
-    <h3>📚 Dokusho</h3>
-    <p>Reading list manager with book recommendations</p>
-    <p>
-      <img src="https://img.shields.io/badge/Clean--Arch-0066FF?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square"/>
-    </p>
-  </div>
-</div>
-
-<!-- Development Philosophy -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" style="filter: hue-rotate(220deg)">
-  <h2>Development Philosophy</h2>
-</div>
+<!-- Featured Projects -->
+## Featured Projects
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">✨ Clean Architecture</td>
-      <td align="center">🔄 MVVM Pattern</td>
-      <td align="center">🎨 Material Design</td>
+      <td><strong>Project</strong></td>
+      <td><strong>Description</strong></td>
+      <td><strong>Technologies</strong></td>
     </tr>
     <tr>
-      <td align="center">🧪 Test-Driven Development</td>
-      <td align="center">📚 Continuous Learning</td>
-      <td align="center">🛠 Best Practices</td>
+      <td>🌱 Kaizen</td>
+      <td>Self-improvement & habit tracker focused on daily progress</td>
+      <td>
+        <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Ktor-E6007A?style=flat-square&logo=kotlin&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>🍳 Ryori</td>
+      <td>Modern recipe discovery app with clean interface</td>
+      <td>
+        <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Hilt-2196F3?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td>☔ Tenki</td>
+      <td>Minimalist weather app with real-time updates</td>
+      <td>
+        <img src="https://img.shields.io/badge/Material3-757575?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Moshi-00BFFF?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td>📝 Shuki</td>
+      <td>Efficient offline notes app for quick note-taking</td>
+      <td>
+        <img src="https://img.shields.io/badge/Room-6DB33F?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Flow-7F52FF?style=flat-square"/>
+      </td>
     </tr>
   </table>
 </div>
 
+<!-- Development Philosophy -->
+## Development Philosophy
+
+```kotlin
+object DevelopmentPrinciples {
+    val coreValues = listOf(
+        "Clean Architecture",
+        "Test-Driven Development",
+        "Continuous Learning",
+        "User-Focused Design"
+    )
+    
+    fun writeCode() {
+        while (true) {
+            learn()
+            implement()
+            refactor()
+            improve()
+        }
+    }
+}
+```
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=435&lines=Building+thoughtful+solutions;Writing+clean+code;Learning+continuously" alt="Typing SVG" />
+</div>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <h2>Contributions</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+  <p><i>"Continuous improvement is better than delayed perfection." – Mark Twain</i></p>
+</div>
+
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=150&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&fontAlignY=65" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer" width="100%">
 </div>
