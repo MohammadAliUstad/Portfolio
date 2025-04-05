@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Mohammad%20Ali&fontSize=80&fontAlignY=35&desc=Android%20Developer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff&descColor=ffffff&fontFamily=Roboto" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Mohammad%20Ali&fontSize=65&fontAlignY=35&desc=Android%20Developer&descAlignY=55&descSize=16&animation=fadeIn&fontColor=ffffff&descColor=ffffff&fontAlignX=50&fontWeight=400" width="100%">
 </div>
 
 <h1 align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
@@ -12,8 +12,6 @@
   </a>
 </div>
 
-<br/>
-
 <!-- About Me Section -->
 <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">About Me</h2>
 
@@ -21,8 +19,6 @@
 - 📱 Currently working on **Kaizen**, a self-improvement & habit tracking app
 - 🌱 Constantly exploring new tools like **Flutter** and **Ktor** to expand my horizons
 - 🇯🇵 Inspired by Japanese craftsmanship and the pursuit of continuous improvement
-
-<br/>
 
 <!-- Tech Stack -->
 <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Tech Stack</h2>
@@ -47,8 +43,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="DataStore" />
 </p>
-
-<br/>
 
 <!-- Featured Projects -->
 <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Featured Projects</h2>
@@ -93,8 +87,6 @@
   </table>
 </div>
 
-<br/>
-
 <!-- Development Philosophy -->
 <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Development Philosophy</h2>
 
@@ -117,8 +109,6 @@ object DevelopmentPrinciples {
     }
 }
 ```
-
-<br/>
 
 <p align="center" style="font-family: 'Georgia', serif; font-style: italic; font-size: 16px;">
   "Continuous improvement is better than delayed perfection." – Mark Twain
