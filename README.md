@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Mohammad%20Ali&fontSize=55&fontAlignY=35&desc=Android%20Developer&descAlignY=55&descSize=14&animation=fadeIn&fontColor=ffffff&descColor=ffffff&fontAlignX=50&fontWeight=300" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Mohammad%20Ali&fontSize=55&fontAlignY=35&desc=Android%20Developer&descAlignY=55&descSize=14&animation=fadeIn&fontColor=ffffff&descColor=ffffff&fontAlignX=50&fontWeight=300&fontFamily=Georgia" width="100%">
 </div>
 
 <h1 align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
@@ -110,7 +110,11 @@ object DevelopmentPrinciples {
 }
 ```
 
+<p align="center" style="font-family: 'Georgia', serif; font-style: italic; font-size: 16px;">
+  "Continuous improvement is better than delayed perfection." – Mark Twain
+</p>
+
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer&text=%22Continuous%20improvement%20is%20better%20than%20delayed%20perfection.%22%20%E2%80%93%20Mark%20Twain&fontSize=13&fontAlign=50&fontAlignY=80&fontColor=ffffff" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer" width="100%">
 </div>
