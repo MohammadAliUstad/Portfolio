@@ -1,38 +1,38 @@
-<h1 align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">Hi, I'm Muhammad</h1>
+<h1 align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">Hi, I'm Mohammad Ali</h1>
 
 <p align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px; margin: 0 0 20px 0;">
   Aspiring Android Developer | Passionate about Clean Architecture & Meaningful Apps
 </p>
 
----
+<hr style="border: 1px solid #ddd; margin: 40px 0;" />
 
 ## About Me
 
 - 👨‍💻 I build Android apps with **Kotlin** & **Jetpack Compose** using Clean Architecture and MVVM.
-- 📱 Currently working on **Kaizen**, a self-improvement and habit tracking app.
-- 🌱 Constantly learning new tools like **Flutter** and **Ktor** to broaden my horizons.
+- 📱 Currently working on **Kaizen**, a self-improvement & habit tracking app.
+- 🌱 Constantly exploring new tools like **Flutter** and **Ktor** to expand my horizons.
 - 🇯🇵 Inspired by Japanese craftsmanship and the pursuit of continuous improvement.
 
----
+<hr style="border: 1px solid #ddd; margin: 40px 0;" />
 
 ## Tech Stack
 
 **Languages & Frameworks:**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
 </p>
 
 **Tools & Technologies:**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Retrofit"/>
-  <img src="https://img.shields.io/badge/Moshi-00BFFF?style=for-the-badge&logoColor=white" alt="Moshi"/>
-  <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Retrofit" />
+  <img src="https://img.shields.io/badge/Moshi-00BFFF?style=for-the-badge&logoColor=white" alt="Moshi" />
+  <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
----
+<hr style="border: 1px solid #ddd; margin: 40px 0;" />
 
 ## Featured Projects
 
@@ -45,32 +45,25 @@
 | **Keisan**             | A fast and intuitive calculator app built for everyday use.            | Jetpack Compose, Material 3                      |
 | **DSA Repository**     | A collection of Data Structures & Algorithms problems solved in Kotlin.  | Kotlin, Algorithms, Clean Code                   |
 
----
+<hr style="border: 1px solid #ddd; margin: 40px 0;" />
 
-## GitHub Stats
+## Live Coding Animation
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad&show_icons=true&theme=github_dark&hide_border=true" width="45%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad&theme=github_dark&hide_border=true" width="45%" alt="Streak Stats"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&color=00BFFF&width=700&lines=Hello+World!;Coding+is+Art;I+build+with+passion;Let's+code+the+future" alt="Typing Animation" />
 </p>
 
----
+<hr style="border: 1px solid #ddd; margin: 40px 0;" />
 
 ## Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Muhammad" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.linkedin.com/in/mohammad-ali-ustad-700516228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
----
+<hr style="border: 1px solid #ddd; margin: 40px 0;" />
 
 <p align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
   <i>"Continuous improvement is better than delayed perfection." – Mark Twain</i>
