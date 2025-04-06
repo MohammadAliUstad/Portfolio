@@ -1,10 +1,10 @@
 <!-- Header with gradient banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=fadeIn" width="100%">
 </div>
 
 <div align="center">
-  <h1 align="center" style="border: 0;margin-top: -140px;">
+  <h1 align="center" style="border: 0;margin-top: -80px;">
     <b>Mohammad Ali</b>
   </h1>
   
@@ -187,15 +187,3 @@
 <p align="center">
   <i>"In the world of software, excellence is not a destination but a continuous journey of improvement"</i>
 </p>
-
-<br/>
-
-<!-- Contribution snake -->
-<div align="center">
-  <h2>Contribution Activity</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
