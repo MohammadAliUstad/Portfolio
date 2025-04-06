@@ -4,11 +4,11 @@
 </div>
 
 <div align="center">
-  <h1 align="center" style="border: 0;margin-top: -80px;">
+  <h1 align="center" style="border: 0;margin-top: -70px;">
     <b>Mohammad Ali</b>
   </h1>
   
-  <p align="center" style="margin-top: -10px;font-size: 24px;">
+  <p align="center" style="margin-top: -5px;font-size: 26px;">
     <em>Android Developer</em>
   </p>
 </div>
@@ -20,6 +20,7 @@
   </a>
 </div>
 
+<br/>
 <br/>
 
 <!-- Neural network divider -->
@@ -42,6 +43,7 @@
 - 🌱 Constantly exploring new tools like **Flutter** and **Ktor** to expand my horizons
 - 🎯 Inspired by craftsmanship and the pursuit of continuous improvement
 
+<br/>
 <br/>
 
 <!-- Neural network divider -->
@@ -74,6 +76,8 @@
   <img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="DataStore" />
 </p>
 
+<br/>
+
 <!-- Neural network divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -84,7 +88,7 @@
 </h2>
 
 <div class="projects" align="center">
-  <table>
+  <table cellspacing="0" cellpadding="0" style="border-spacing: 15px;">
     <tr>
       <td width="50%">
         <h3 align="center">Kaizen</h3>
@@ -92,7 +96,7 @@
           <a href="#">
             <img src="https://i.pinimg.com/originals/03/41/04/034104234a336e35682bb77db7aba6e7.gif" width="400" alt="Kaizen" style="border-radius: 10px;">
           </a>
-          <p>
+          <p style="padding: 10px 20px;">
             A self-improvement & habit tracking app to help you level up in real life, one habit at a time
           </p>
           <p>
@@ -108,7 +112,7 @@
           <a href="#">
             <img src="https://i.pinimg.com/originals/c0/8b/79/c08b79a7c0ecd7685aaf202d8f94fb18.gif" width="400" alt="Ryori" style="border-radius: 10px;">
           </a>
-          <p>
+          <p style="padding: 10px 20px;">
             A recipe discovery app with clean interface that brings delicious recipes right to your fingertips
           </p>
           <p>
@@ -123,7 +127,7 @@
       <td width="50%">
         <h3 align="center">Tenki</h3>
         <div align="center">
-          <p>
+          <p style="padding: 10px 20px;">
             Minimalist weather app providing real-time forecasts with beautiful UI
           </p>
           <p>
@@ -139,7 +143,7 @@
           <a href="#">
             <img src="https://i.pinimg.com/originals/48/5e/83/485e83569fff861c92baae936e9d45af.gif" width="400" alt="Shuki" style="border-radius: 10px;">
           </a>
-          <p>
+          <p style="padding: 10px 20px;">
             Offline notes app designed for quick and efficient note-taking
           </p>
           <p>
@@ -154,7 +158,7 @@
       <td width="50%">
         <h3 align="center">Keisan</h3>
         <div align="center">
-          <p>
+          <p style="padding: 10px 20px;">
             A fast and intuitive calculator app built for everyday use
           </p>
           <p>
@@ -166,7 +170,7 @@
       <td width="50%">
         <h3 align="center">DSA</h3>
         <div align="center">
-          <p>
+          <p style="padding: 10px 20px;">
             A collection of Data Structures & Algorithms problems solved in Kotlin
           </p>
           <p>
@@ -184,6 +188,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<p align="center">
+<p align="center" style="margin: 20px 0;">
   <i>"In the world of software, excellence is not a destination but a continuous journey of improvement"</i>
 </p>
