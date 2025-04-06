@@ -14,44 +14,8 @@
 
 <!--divider-->
 
-<!-- About me section with anime GIF -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> 
-  <b>About Me</b>
-</h2>
 
-<div align="center">
-  <img align="right" height="270px" alt="Anime Coding GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-</div>
 
-<br/>
-
-<p align="left" style="font-size: 18px; margin-left: 20px;">
-  Like a protagonist in a tech anime, I'm on a journey to master the art of Android development. With Kotlin as my weapon of choice and Clean Architecture as my fighting style, I create apps that both function flawlessly and delight users.
-  <br/><br/>
-  Inspired by Japanese principles of <i>kaizen</i> (continuous improvement) and <i>monozukuri</i> (craftsmanship), I approach each project with dedication and attention to detail worthy of a master craftsman.
-</p>
-
-```kotlin
-object MohammadAli {
-    val powerLevel = "Over 9000"
-    val primarySkills = listOf("Kotlin", "Jetpack Compose", "Clean Architecture", "MVVM")
-    val currentQuest = "Kaizen - Self-improvement & Habit Tracking App"
-    val exploringTechnologies = listOf("Flutter", "Ktor", "KMM")
-    
-    fun code() {
-        while(true) {
-            learn()
-            build()
-            refactor()
-            // This isn't even my final form
-            evolve()
-        }
-    }
-}
-```
-
-<br/>
 
 <!-- RGB divider -->
 <div align="center">
