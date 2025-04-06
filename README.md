@@ -113,9 +113,6 @@
       <td width="50%">
         <h3 align="center">Tenki</h3>
         <div align="center">
-          <a href="#">
-            <img src="https://i.pinimg.com/originals/0e/f3/bb/0ef3bb66d9216fffcea9022628f7bb26.gif" width="400" alt="Tenki" style="border-radius: 10px;">
-          </a>
           <p>
             Minimalist weather app providing real-time forecasts with beautiful UI
           </p>
@@ -143,6 +140,32 @@
         </div>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Keisan</h3>
+        <div align="center">
+          <p>
+            A fast and intuitive calculator app built for everyday use
+          </p>
+          <p>
+            <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">DSA</h3>
+        <div align="center">
+          <p>
+            A collection of Data Structures & Algorithms problems solved in Kotlin
+          </p>
+          <p>
+            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Clean%20Code-FF6B6B?style=for-the-badge&logo=clean&logoColor=white"/>
+          </p>
+        </div>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -150,6 +173,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+
+<p align="center">
+  <i>"In the world of software, excellence is not a destination but a continuous journey of improvement"</i>
+</p>
+
+<br/>
 
 <!-- Contribution snake -->
 <div align="center">
