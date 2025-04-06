@@ -1,6 +1,16 @@
 <!-- Header with gradient banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mohammad%20Ali&fontSize=90&fontAlignY=38&desc=Android%20Developer%20%7C%20Code%20Craftsman&descAlignY=60&descSize=22&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&animation=fadeIn" width="100%">
+</div>
+
+<div align="center">
+  <h1 align="center" style="border: 0;margin-top: -140px;">
+    <b>Mohammad Ali</b>
+  </h1>
+  
+  <p align="center" style="margin-top: -10px;font-size: 24px;">
+    <em>Android Developer | Code Craftsman</em>
+  </p>
 </div>
 
 <!-- Professional social badge -->
