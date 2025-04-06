@@ -12,11 +12,54 @@
 
 <br/>
 
-<!-- RGB neural network divider -->
+<!-- RGB divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
+<!-- About me section with anime GIF -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> 
+  <b>About Me</b>
+</h2>
+
+<div align="center">
+  <img align="right" height="270px" alt="Anime Coding GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+</div>
+
+<br/>
+
+<p align="left" style="font-size: 18px; margin-left: 20px;">
+  Like a protagonist in a tech anime, I'm on a journey to master the art of Android development. With Kotlin as my weapon of choice and Clean Architecture as my fighting style, I create apps that both function flawlessly and delight users.
+  <br/><br/>
+  Inspired by Japanese principles of <i>kaizen</i> (continuous improvement) and <i>monozukuri</i> (craftsmanship), I approach each project with dedication and attention to detail worthy of a master craftsman.
+</p>
+
+```kotlin
+object MohammadAli {
+    val powerLevel = "Over 9000"
+    val primarySkills = listOf("Kotlin", "Jetpack Compose", "Clean Architecture", "MVVM")
+    val currentQuest = "Kaizen - Self-improvement & Habit Tracking App"
+    val exploringTechnologies = listOf("Flutter", "Ktor", "KMM")
+    
+    fun code() {
+        while(true) {
+            learn()
+            build()
+            refactor()
+            // This isn't even my final form
+            evolve()
+        }
+    }
+}
+```
+
+<br/>
+
+<!-- RGB divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+</div>
 
 <!-- Tech skills with anime theme -->
 <h2 align="center">
@@ -191,6 +234,18 @@
 
 <br/>
 
+<!-- Contribution snake with RGB effect -->
+<div align="center">
+  <h2>My Contribution Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
 <!-- RGB divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910313-9f064bae-cea9-4683-936a-63a5bcbec8cc.gif" width="100%">
@@ -219,17 +274,5 @@
 
 <!-- Anime-themed footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=170&section=footer&fontSize=40&fontAlignY=70&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=170&section=footer&text=Plus%20Ultra!&fontSize=40&fontAlignY=70&animation=fadeIn" width="100%">
 </div>
-
-!-- Contribution snake with RGB effect -->
-<div align="center">
-  <h2>My Contribution Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
