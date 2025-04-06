@@ -96,43 +96,6 @@
   </table>
 </div>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadAliUstad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadAliUstad&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-## 💻 Development Philosophy
-
-```kotlin
-object CleanCodePrinciples {
-    val principles = listOf(
-        "Clean Architecture",
-        "Test-Driven Development",
-        "Continuous Learning",
-        "User-Focused Design"
-    )
-    
-    fun writeCode() {
-        while (true) {
-            learn()
-            implement()
-            refactor()
-            improve()
-        }
-    }
-    
-    fun motto() = """
-        "Continuous improvement is better than delayed perfection."
-        – Mark Twain
-    """.trimIndent()
-}
-```
-
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -140,6 +103,14 @@ object CleanCodePrinciples {
     <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammadAliUstad/MohammadAliUstad/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammadAliUstad/MohammadAliUstad/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohammadAliUstad/MohammadAliUstad/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer" width="100%">
