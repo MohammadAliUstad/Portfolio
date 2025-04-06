@@ -3,23 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mohammad%20Ali&fontSize=90&fontAlignY=38&desc=Android%20Developer%20%7C%20Code%20Craftsman&descAlignY=60&descSize=22&animation=fadeIn" width="100%">
 </div>
 
-<!-- Animated typing effect with anime quote -->
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Exceptional+Android+Apps;%22The+code+doesn't+lie%2C+it+reveals+your+intention%22;~+Levi+Ackerman%2C+probably" alt="Typing SVG" /></a>
-</div>
-
 <!-- Animated profile views and social badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadali&style=for-the-badge&color=6B46C1" alt="Profile Views" />
-  
   <a href="https://www.linkedin.com/in/mohammad-ali-ustad-700516228/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/mohammadali">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:mohammadali@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -218,37 +205,6 @@ object MohammadAli {
   <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%">
 </div>
 
-<!-- Stats with anime theme -->
-<h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30">
-  <b>GitHub Stats</b>
-</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=anuraghazra&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-</div>
-
-<br/>
-
-<!-- Contribution graph as an anime power meter -->
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Mohammad Ali's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anuraghazra&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%">
-  </a>
-</div>
-
-<br/>
-
-<!-- RGB circuitry divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-</div>
-
 <!-- Development philosophy with anime GIF -->
 <h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122043-2580cca9-1d9b-45d5-bfcc-4ef6368ae428.png" width="30">
@@ -311,12 +267,6 @@ object MohammadAli {
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammad-ali-ustad-700516228/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
-  </a>
-  <a href="https://twitter.com/mohammadali">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" />
-  </a>
-  <a href="mailto:mohammadali@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
 </div>
 
