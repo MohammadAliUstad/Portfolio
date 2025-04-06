@@ -191,18 +191,6 @@
 
 <br/>
 
-<!-- Contribution snake with RGB effect -->
-<div align="center">
-  <h2>My Contribution Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
 <!-- RGB divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910313-9f064bae-cea9-4683-936a-63a5bcbec8cc.gif" width="100%">
@@ -231,5 +219,17 @@
 
 <!-- Anime-themed footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=170&section=footer&text=Plus%20Ultra!&fontSize=40&fontAlignY=70&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=170&section=footer&fontSize=40&fontAlignY=70&animation=fadeIn" width="100%">
 </div>
+
+!-- Contribution snake with RGB effect -->
+<div align="center">
+  <h2>My Contribution Snake</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
