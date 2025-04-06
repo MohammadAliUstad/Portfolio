@@ -1,6 +1,6 @@
 <!-- Header with gradient banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,29,37&height=150&section=header&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=e65d5d,f07b3f,ea4335,ff9966&height=150&section=header&animation=fadeIn" width="100%">
 </div>
 
 <div align="center">
