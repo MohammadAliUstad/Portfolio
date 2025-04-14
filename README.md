@@ -64,31 +64,16 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design" />
-  <img src="https://img.shields.io/badge/Jetpack%20Navigation%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Navigation Compose" />
   <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
-  <img src="https://img.shields.io/badge/Ktor_Client-02569B?style=for-the-badge&logo=kotlin&logoColor=white" alt="Ktor Client" />
-  <img src="https://img.shields.io/badge/OkHttp-FF6B6B?style=for-the-badge&logo=square&logoColor=white" alt="OkHttp" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room" />
   <img src="https://img.shields.io/badge/Dagger%20Hilt-2196F3?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt" />
-  <img src="https://img.shields.io/badge/Koin-FFCA28?style=for-the-badge&logo=kotlin&logoColor=black" alt="Koin" />
   <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines" />
-  <img src="https://img.shields.io/badge/StateFlow-4285F4?style=for-the-badge&logo=kotlin&logoColor=white" alt="StateFlow" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=for-the-badge&logo=clean&logoColor=white" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/MVVM-FF9900?style=for-the-badge&logo=architecture&logoColor=white" alt="MVVM" />
-  <img src="https://img.shields.io/badge/Sealed%20Class%20Result%20Wrapping-FF6B6B?style=for-the-badge&logo=kotlin&logoColor=white" alt="Sealed Class Result" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="DataStore" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Adaptive%20App%20Icons-FF9900?style=for-the-badge&logo=android&logoColor=white" alt="Adaptive App Icons" />
-  <img src="https://img.shields.io/badge/Compose%20Animations-7F52FF?style=for-the-badge&logo=android&logoColor=white" alt="Compose Animations" />
-  <img src="https://img.shields.io/badge/Splash%20Screen%20Animations-FF9966?style=for-the-badge&logo=android&logoColor=white" alt="Splash Screen Animations" />
-  <img src="https://img.shields.io/badge/Location%20Fetching-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Location Fetching" />
-  <img src="https://img.shields.io/badge/Theme%20Selection-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Theme Selection" />
 </p>
 
 <br/>
